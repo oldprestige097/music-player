@@ -16,6 +16,7 @@
     <string name="unknown_artist">Unknown artist</string>
     <string name="paused">Paused</string>
     <string name="stopped">Stopped</string>
+    <string name="playback_error">Unable to play this audio file.</string>
     <string name="no_song_loaded">No song loaded</string>
     <string name="add_audio_files_hint">Add audio files to your phone/emulator and tap Refresh.</string>
 </resources>

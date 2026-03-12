@@ -10,11 +10,11 @@ This repository contains a simple **Music Player app** built for Android Studio 
   - Stop playback
   - About
 - Loads songs from device storage using `MediaStore`
-- Runtime permission handling for Android 13+ and older versions
+- Runtime permission handling for Android 13+ and older versions (Java implementation)
 
 ## Project Structure
-- `app/src/main/java/com/example/musicplayer/MainActivity.kt`: Main logic for loading songs and controlling playback
-- `app/src/main/java/com/example/musicplayer/Song.kt`: Song model
+- `app/src/main/java/com/example/musicplayer/MainActivity.java`: Main logic for loading songs and controlling playback
+- `app/src/main/java/com/example/musicplayer/Song.java`: Song model
 - `app/src/main/res/layout/activity_main.xml`: UI with multiple buttons
 - `app/src/main/res/menu/player_menu.xml`: App menu items
 
